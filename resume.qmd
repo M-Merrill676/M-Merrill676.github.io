@@ -26,9 +26,9 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 `Jan 2024 - Apr 2024`
 __ECON 381__ _Econometrics Data Analysis Research Paper_ 
--	Performed literature review on overall efficacy of medical marijuana as a substitute for opioids, through peer reviewed sources
--	Conducted in-depth statistical analysis, primarily multiple linear regression, on a large-scale dataset utilizing R Studio
--	Compiled findings in a research paper, contributing to ongoing discussions within current academic communities
+- Performed literature review on overall efficacy of medical marijuana as a substitute for opioids, through peer reviewed sources
+- Conducted in-depth statistical analysis, primarily multiple linear regression, on a large-scale dataset utilizing R Studio
+- Compiled findings in a research paper, contributing to ongoing discussions within current academic communities
 
 
 ## Work Experience
