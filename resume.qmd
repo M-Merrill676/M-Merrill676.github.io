@@ -18,6 +18,7 @@ mer21006@byui.edu | www.linkedin.com/in/michael-merrill-676mmt | (618) 795-2503
 
 `2021-2025`
 __Brigham Young University - Idaho__, Rexburg, ID
+
 - Bachelor of Science in Economics
 - 4.0 Major GPA
 
@@ -25,7 +26,8 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ## Academic Project
 
 `Jan 2024 - Apr 2024`
-__ECON 381__ _Econometrics Data Analysis Research Paper_ 
+__ECON 381__ _Econometrics Data Analysis Research Paper_
+
 - Performed literature review on overall efficacy of medical marijuana as a substitute for opioids, through peer reviewed sources
 - Conducted in-depth statistical analysis, primarily multiple linear regression, on a large-scale dataset utilizing R Studio
 - Compiled findings in a research paper, contributing to ongoing discussions within current academic communities
